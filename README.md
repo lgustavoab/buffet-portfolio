@@ -93,6 +93,28 @@ Essa camada de monitoramento contribui para avaliar desempenho de páginas, cana
 
 ---
 
+## 📊 Insights e análises
+
+A partir dos dados coletados via GA4, é possível extrair alguns padrões iniciais de comportamento dos usuários:
+
+- predominância de acessos vindos do Instagram, indicando forte dependência de tráfego social  
+- concentração de interações na página `/links`, sugerindo seu papel como principal ponto de entrada  
+- cliques recorrentes em botões de contato (WhatsApp/orçamento), reforçando intenção de conversão  
+- distribuição geográfica majoritariamente local, alinhada com o público-alvo do negócio  
+
+---
+
+## 📈 Possíveis decisões orientadas por dados
+
+Com base nesses padrões, algumas ações podem ser exploradas:
+
+- otimização da página `/links` como canal principal de conversão  
+- ajustes no posicionamento e destaque de CTAs com base nos pontos de maior interação  
+- fortalecimento da estratégia de conteúdo no Instagram, principal origem de tráfego  
+- testes futuros de variação de layout e mensagens para melhoria de conversão 
+
+---
+
 ## 🛠️ Stack utilizada
 
 - **Framework:** Next.js 16

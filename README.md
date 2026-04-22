@@ -38,7 +38,7 @@ A proposta foi construir uma interface moderna, elegante e responsiva, capaz de 
 ## 🖥️ Interface
 
 ### Home
-![Home](docs/images/home.jpeg)
+![Home](docs/images/home2.jpeg)
 
 ---
 

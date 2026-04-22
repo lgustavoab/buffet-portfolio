@@ -35,6 +35,33 @@ A proposta foi construir uma interface moderna, elegante e responsiva, capaz de 
 
 ---
 
+## 🖥️ Interface
+
+### Home
+![Home](docs/images/home.jpeg)
+
+---
+
+### Página `/links`
+![Links](docs/images/links.jpeg)
+
+---
+
+## 📊 Analytics (GA4 + GTM)
+
+A aplicação foi instrumentada com **Google Analytics 4 + Google Tag Manager**, permitindo análise real de comportamento.
+
+### Visão geral
+![Overview](docs/images/analytics-overview.jpg)
+
+### Eventos por botão
+![Buttons](docs/images/analytics-buttons.jpg)
+
+### Dados por cidade
+![Cities](docs/images/analytics-cities.jpg)
+
+---
+
 ## ✨ Principais funcionalidades
 
 - **Layout responsivo** para desktop, tablet e mobile
